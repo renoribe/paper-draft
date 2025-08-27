@@ -43,104 +43,28 @@ Ideasthesia: synaesthesia depends on the semantic meaning of stimuli (Mroczko-W�
 These theories are not mutually exclusive. VPH integrates structural connectivity and semantic dependence via vector-space geometry.
 
 3. The Vector Proximity Hypothesis (VPH)
-3.1 Mathematical Formulation
-
-Each qualia 
-𝑞
-𝑖
-q
-i
-	​
-
- is represented as a vector:
-
-𝑞
-𝑖
-∈
-𝑅
-𝑛
-q
-i
-	​
-
-∈R
-n
+### 3.1 Definition of Dissimilarity
 
 Dissimilarity between qualia is defined as:
 
-	
-𝑑
-(
-𝑞
-𝑖
-,
-𝑞
-𝑗
-)
-=
-1
-−
-cos
-⁡
-(
-𝜃
-𝑖
-𝑗
-)
-.
-		
-(1)
-d(q
-i
-	​
+<img width="1197" height="291" alt="equation1" src="https://github.com/user-attachments/assets/586bb218-3c00-4c7f-88dd-d36b37b68139" />
 
-,q
-j
-	​
 
-)=1−cos(θ
-ij
-	​
 
-).
-(1)
+**Equation (1)**: Cosine dissimilarity between qualia vectors, where θᵢⱼ is the angle between qualia vectors qᵢ and qⱼ.*
 
-Condition for synaesthesia:
+---
 
-	
-𝑑
-(
-𝑞
-grapheme
-,
-𝑞
-colour
-)
-<
-𝜏
-,
-		
-(2)
-d(q
-grapheme
-	​
+### 3.2 Condition for Synaesthesia
 
-,q
-colour
-	​
+Condition for grapheme–colour synaesthesia:
 
-)<τ,
-(2)
+<img width="1326" height="291" alt="equation2" src="https://github.com/user-attachments/assets/32ac4557-6da1-4def-943a-5d399b7dc0fa" />
 
-where 
-𝜏
-τ is an empirically estimated threshold.
 
-3.2 Core Claim
 
-Grapheme–colour synaesthesia arises when grapheme and colour vectors fall below the probabilistic threshold 
-𝜏
-τ.
+**Equation (2)**: Synaesthesia occurs when dissimilarity falls below the probabilistic threshold τ, where τ is an empirically estimated threshold.*
+
 
 4. Applications
 4.1 Explaining Grapheme–Colour Synaesthesia
