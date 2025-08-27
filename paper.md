@@ -183,7 +183,8 @@ Artificially manipulate proximity thresholds
 6. Figures
 
 Figure 1: Overview of VPH (vector-space model of grapheme–colour binding)
-<img width="1536" height="1024" alt="83ca1dc1-50bb-4cff-a7d6-b54f4bc5860c" src="https://github.com/user-attachments/assets/69499de3-1bdf-4523-b050-136b380b4e4b" />
+<img width="1536" height="1024" alt="figure1(2)" src="https://github.com/user-attachments/assets/ac2c8051-1691-4dcf-b7c0-788165cd9bfb" />
+
 
 
 Figure 2: RSA flowchart (stimuli → fMRI → RDM → Hyperalignment → Model RDM → statistical testing)
