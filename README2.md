@@ -6,7 +6,7 @@ It models human qualia as vectors in a high-dimensional representational space, 
 
 This repository documents the evolution of the VPH project in three stages:
 
-1. **[Grapheme–Colour Synaesthesia](paper-draft.md)**  
+1. **[Grapheme–Colour Synaesthesia](paper.md)**  
    - Proposal of VPH as a new hypothesis.  
    - Explains synaesthesia as erroneous proximity between grapheme and colour vectors.  
 
@@ -28,7 +28,7 @@ Together, these essays outline a cross-disciplinary framework at the intersectio
 
 本リポジトリでは、VPHプロジェクトの進展を3つの段階でまとめています：
 
-1. **[色字共感覚](paper-draft.md)**  
+1. **[色字共感覚](paper.md)**  
    - VPHを新しい仮説として提示。  
    - 文字と色のベクトルの誤近接として共感覚を説明。  
 
